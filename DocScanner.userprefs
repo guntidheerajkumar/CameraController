@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{AEE816BF-3E91-4320-AB6D-0B92238286A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/ViewController.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="14" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DocScanner" expanded="True">
+            <Node name="Sample" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A84BE647-1097-441C-BDE6-F254F9642D5C" />
+</Properties>
